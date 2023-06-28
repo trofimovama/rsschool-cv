@@ -69,11 +69,11 @@
     <h1 style="text-align:center; padding:0">Trofimova Maria</h1>
     <h3 style="text-align:center; padding:0">Front-End Developer</h3>
     <h4><b style="font-size:20px; margin:0">Contacts:</b></h4>
-    <p style="font-size:18px; margin:0">&#9743 +375297006079 (WhatsApp, Viber, Telegram)</p>
-    <p style="font-size:18px; margin:0">&#128222 +38268297996 (to deal directly)</p>
+    <p style="font-size:18px; margin:0">📞 +375297006079 (WhatsApp, Viber, Telegram)</p>
+    <p style="font-size:18px; margin:0">📞 +38268297996 (to deal directly)</p>
     <p style="font-size:16px; margin:0"><b>Location:</b> Montenegro</p>
     <p style="font-size:16px; margin:0"><b>Discord:</b> _mari_ya</p>
-    <p style="font-size:16px; margin:0"><span style="font-size:20px; margin-right:6px">&#9993</span>maria.trofimoffa.1990@gmail.com</p>
+    <p style="font-size:16px; margin:0"><span style="font-size:20px; margin-right:6px">✉</span>maria.trofimoffa.1990@gmail.com</p>
     <hr />
     <h4><b style="font-size:20px; margin:0">Experience:</b></h4>
     <p>Oxagile - Junior Front-End Developer (1,5 years)</p>
@@ -88,21 +88,14 @@
     <p>✧ FreeCodeCamp - CSS, JavaScript</p>
     <p>✧ English - Master's degree, Minsk State Linguistic University - C1</p>
     <h4><b style="font-size:20px; margin:0">Codewars solution example:</b></h4>
-    <code style="color: #b3a396">
+    <p><code style="color: #b3a396">
       You get an array of numbers, return the sum of all of the positives ones.
       Example [1,-4,7,12] => 1 + 7 + 12 = 20
       Note: if there is nothing to sum, the sum is default to 0.
-    </code>
-
-    function positiveSum(arr) {
-      let sum = 0;
-          
-      for (let i = 0; i < arr.length; i++) {
-        if (arr[i] > 0) {
-          sum += arr[i];
-        }
-      }
-      return sum;
-    };
+    </code></p>
+    <hr />
+    <p style="border: 1px solid gray;">
+      <code style="color: #023020;">function positiveSum(arr) {<br/>&nbsp&nbsplet sum = 0;<br/>&nbsp&nbspfor (let i = 0; i < arr.length; i++) {<br/>&nbsp&nbsp&nbsp&nbspif (arr[i] > 0) {<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsum += arr[i];<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp}<br/>&nbsp&nbsp&nbsp&nbsp}<br/>&nbsp&nbsp&nbsp&nbspreturn sum;<br/>&nbsp&nbsp};</code>
+    </p> 
   </div>
 </div>
