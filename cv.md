@@ -95,7 +95,16 @@
     </code></p>
     <hr />
     <p style="border: 1px solid gray;">
-      <code style="color: #023020;">function positiveSum(arr) {<br/>&nbsp&nbsplet sum = 0;<br/>&nbsp&nbspfor (let i = 0; i < arr.length; i++) {<br/>&nbsp&nbsp&nbsp&nbspif (arr[i] > 0) {<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsum += arr[i];<br/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp}<br/>&nbsp&nbsp&nbsp&nbsp}<br/>&nbsp&nbsp&nbsp&nbspreturn sum;<br/>&nbsp&nbsp};</code>
+      <code><pre>
+      function positiveSum(arr) {
+        let sum = 0;
+        for (let i = 0; i < arr.length; i++) {
+          if (arr[i] > 0) {
+            sum += arr[i];
+            }
+          }
+          return sum;
+        };</pre></code>
     </p> 
   </div>
 </div>
