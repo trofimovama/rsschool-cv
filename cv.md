@@ -1,6 +1,6 @@
 <div style="display: flex; box-sizing:border-box; padding:0; margin:0; font-family: Montserrat; color:#271e1a;">
   <div style="background-color:#b3a396; width: 40%">
-    <img src="cv-image.png" alt="Maria Trofimova" style="width: 200px; height: 200px; margin-left: 17%"/>
+    <img src="cv-image.png" alt="Maria Trofimova"/>
     <p style="padding: 6px;">Eager and talented Front-End Developer, ready to endless mastering programming skills. The major priority is to succeed in developing brand new, unique, comprehensive, modern and multi-functional apps. Totally confident in path I have chosen.</p>
     <ul> <b>Expertise:</b>
       <li style="display:flex; align-items: center; gap: 10px;">
