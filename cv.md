@@ -1,64 +1,64 @@
 <div style="display: flex; box-sizing:border-box; padding:0; margin:0; font-family: Montserrat; color:#271e1a;">
   <div style="background-color:#b3a396; width: 40%">
-    <img src="cv-image.png" alt="Maria Trofimova" style="object-fit:contain;"/>
+    <img src="cv-image.png" alt="Maria Trofimova" style="width: 200px; height: 200px; margin-left: 17%"/>
     <p style="padding: 6px;">Eager and talented Front-End Developer, ready to endless mastering programming skills. The major priority is to succeed in developing brand new, unique, comprehensive, modern and multi-functional apps. Totally confident in path I have chosen.</p>
     <ul> <b>Expertise:</b>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ JavaScript</span>
+        <span style="width: 30%">JavaScript</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 50%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ React</span>
+        <span style="width: 30%">React</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 40%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ Detox js</span>
+        <span style="width: 30%">Detox js</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 50%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ Git</span>
+        <span style="width: 30%">Git</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 80%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ Jenkins</span>
+        <span style="width: 30%">Jenkins</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 30%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ HTML</span>
+        <span style="width: 30%">HTML</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 90%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ CSS/SCSS</span>
+        <span style="width: 30%">CSS/SCSS</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 90%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ Bootstrap</span>
+        <span style="width: 30%">Bootstrap</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 90%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ VSCode</span>
+        <span style="width: 30%">VSCode</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 100%"></span>
         </div>
       </li>
       <li style="display:flex; align-items: center; gap: 10px;">
-        <span style="width: 30%">◦ English</span>
+        <span style="width: 30%">English</span>
         <div style="width: 50%; height: 3px; background-color: #ede2d3; border-radius: 3px; ">
           <span style="display: block; height: 3px; background-color: #271e1a; width: 100%"></span>
         </div>
