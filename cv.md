@@ -94,8 +94,7 @@
       Note: if there is nothing to sum, the sum is default to 0.
     </code></p>
     <hr />
-    <p style="border: 1px solid gray;">
-      <code><pre>
+    <code><pre>
       function positiveSum(arr) {
         let sum = 0;
         for (let i = 0; i < arr.length; i++) {
@@ -105,6 +104,5 @@
           }
           return sum;
         };</pre></code>
-    </p> 
   </div>
 </div>
